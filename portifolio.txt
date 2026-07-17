@@ -1,0 +1,35 @@
+# 📊 Projeto 1: Análise Exploratória de Dados (EDA)
+
+## Descrição
+Análise exploratória completa de base de clientes com 20 registros, investigando distribuição de idade, renda, estado e tempo de cliente.
+
+## Técnicas Utilizadas
+- **Python**: Pandas, Matplotlib, Seaborn
+- **Análise**: Estatísticas descritivas, distribuições, correlações
+- **Visualização**: 4 gráficos profissionais com design moderno
+
+## Arquivos
+- `clientes.csv` - Base de dados (20 clientes)
+- `analise.py` - Código Python completo
+- `analise_clientes.png` - Dashboard com 4 gráficos
+
+## Como Rodar
+```bash
+python analise.py
+```
+
+## Resultados
+- ✅ 20 clientes analisados
+- ✅ Insights sobre distribuição demográfica
+- ✅ Recomendações de segmentação
+- ✅ Gráficos em alta resolução (300 dpi)
+
+## Tecnologias
+- Python 3.x
+- Pandas
+- Matplotlib
+- Seaborn
+
+---
+**Autor**: Isabela Rocha  
+**Portfólio**: BI/Analytics - Serasa Experian

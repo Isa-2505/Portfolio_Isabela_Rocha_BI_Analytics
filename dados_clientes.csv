@@ -1,0 +1,21 @@
+id,cliente,compras_totais,frequencia,recencia_dias,valor_medio,categoria,nps
+1,João Silva,15000,12,5,1250,Eletrônicos,9
+2,Maria Santos,22000,18,2,1222,Moda,10
+3,Pedro Costa,8000,6,15,1333,Casa,7
+4,Ana Oliveira,12000,10,8,1200,Eletrônicos,8
+5,Carlos Mendes,18000,14,3,1286,Esportes,9
+6,Lucia Ferreira,9000,7,20,1286,Casa,6
+7,Bruno Alves,25000,20,1,1250,Eletrônicos,10
+8,Fernanda Dias,11000,9,12,1222,Moda,8
+9,Roberto Lima,7000,5,25,1400,Casa,5
+10,Patricia Gomes,20000,16,4,1250,Esportes,9
+11,André Rocha,6000,4,30,1500,Moda,4
+12,Beatriz Castro,19000,15,6,1267,Casa,9
+13,Daniel Martins,10000,8,18,1250,Eletrônicos,7
+14,Elena Costa,16000,13,7,1231,Moda,8
+15,Felipe Santos,5000,3,35,1667,Esportes,3
+16,Gabriela Silva,21000,17,3,1235,Casa,10
+17,Gustavo Oliveira,8500,6,22,1417,Eletrônicos,6
+18,Helena Mendes,17000,14,5,1214,Moda,8
+19,Igor Pereira,9500,7,19,1357,Esportes,7
+20,Julia Barbosa,23000,19,2,1211,Casa,10

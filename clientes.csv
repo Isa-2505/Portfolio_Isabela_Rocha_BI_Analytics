@@ -1,0 +1,21 @@
+id,nome,idade,renda,estado,tempo_cliente
+1,João Silva,28,3500,SP,2
+2,Maria Santos,35,5000,RJ,5
+3,Pedro Costa,42,4200,MG,3
+4,Ana Oliveira,29,3800,SP,1
+5,Carlos Mendes,51,6500,RS,7
+6,Lucia Ferreira,38,4500,BA,4
+7,Bruno Alves,25,2800,SP,1
+8,Fernanda Dias,45,5800,PR,6
+9,Roberto Lima,33,4100,SC,2
+10,Patricia Gomes,40,5500,SP,5
+11,André Rocha,27,3200,MG,1
+12,Beatriz Castro,44,6000,RJ,8
+13,Daniel Martins,31,4300,BA,3
+14,Elena Costa,36,4700,RS,4
+15,Felipe Santos,29,3900,SP,2
+16,Gabriela Silva,47,6200,MG,6
+17,Gustavo Oliveira,26,3100,PR,1
+18,Helena Mendes,41,5300,SC,5
+19,Igor Pereira,34,4400,RJ,3
+20,Julia Barbosa,39,4900,BA,4
